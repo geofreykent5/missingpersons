@@ -310,4 +310,18 @@
 		"twitter": "@PeterAteenyi",
 		"gender": "Male"
 }
+	[
+    {
+        "id": 29,
+        "name": "Esther Tabamubi",
+        "image": "img/Esther_Tabamubi.jpeg",
+        "last_known_location": "Unknown", 
+		"taken_time": "14:21 23-07-2024", 
+        "holding_location": "Unknown Location",
+        "security_organ": "Taken by Police",
+        "status": "Missing",
+        "twitter": "@ETabamubi",
+        "sex": "Female"
+    }
+]
 ]
